@@ -1,3 +1,4 @@
+package week2.week1;
 public class StringManipulation{
 public static void main(String[] args) {  
 // TODO: Create the same string "Java Programming" using 3different methods: 

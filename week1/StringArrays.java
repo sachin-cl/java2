@@ -1,3 +1,4 @@
+package week2.week1;
 
 public class StringArrays{
     public static String findLongestName(String[] names) {
